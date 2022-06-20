@@ -1,0 +1,7 @@
+
+path: ../datasets/coco
+train: images
+val: images
+
+nc: 11
+names: ['Budynek', 'Drzewo', 'Pojazd', 'WieleDrzew', 'CienieDrzew', 'Skladowisko', 'Parking', 'PryzmaZiemi', 'Wykop', 'ZbiornikWodny', 'ParkingPolny']
